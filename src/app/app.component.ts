@@ -9,4 +9,8 @@ import { RouterOutlet } from '@angular/router';
 })
 export class App {
   protected readonly title = signal('ioc-angular-tournamentmanager-brunodopico');
+  public appTitle = 'Tournament Manager';
+  public author = 'Bruno Dopico';
+  public app_date = Date.now;
+  public version = '0.1.1';
 }

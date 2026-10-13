@@ -2,6 +2,32 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.2.2.
 
+## Autor
+
+Bruno Dopico
+
+## Descripció
+
+Aplicació per gestionar, organitzar i executar tornejos de diferents formats.
+
+## Versions utilitzades
+
+NODE JS: v24.21.0
+npm: v11.19.0
+git: v2.53.0.windows.2
+Angular CLI: v22.2.2
+
+## Com crear i executar el projecte
+
+Per executar el projecte desde la carpeta arrel obrir una terminal i executar el command: 'ng serve'
+
+## Estat de l'EAC1
+
+Aprovat, espero
+
+## Enllaç del repositori
+https://github.com/BrunoDopico/ioc-angular-tournamentmanager-brunodopico/tree/ra1-setup
+
 ## Development server
 
 To start a local development server, run:
